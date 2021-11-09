@@ -1,0 +1,474 @@
+body.bedroom_bg{
+    background-image: url('backgrounds/bedroom.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#chiaki_bedroom_bg{
+    background-image: url('backgrounds/chiaki_bedroom.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#city_bg{
+    background-image: url('backgrounds/city.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#class_bg{
+    background-image: url('backgrounds/class.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#corridor_bg{
+    background-image: url('backgrounds/corridor.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#gym_bg{
+    background-image: url('backgrounds/gym.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#house_ibuki_bg{
+    background-image: url('backgrounds/house.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#house_sonia_bg{
+    background-image: url('backgrounds/house.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center; 
+}
+
+body#index_bg{
+    background-image: url('backgrounds/room.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#kitchen_bg{
+    background-image: url('backgrounds/kitchen.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#lake_bg{
+    background-image: url('backgrounds/lake.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#pool_bg{
+    background-image: url('backgrounds/pool.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#refectory_bg{
+    background-image: url('backgrounds/refectory.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#residential_bg{
+    background-image: url('backgrounds/residential.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#school_entry_bg{
+    background-image: url('backgrounds/school.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#stadium_bg{
+    background-image: url('backgrounds/stadium.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+body#akane_ending_bg{
+    background-image: url('ending_bg/akane_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#byakuya_ending_bg{
+    background-image: url('ending_bg/byakuya_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#chiaki_ending_bg{
+    background-image: url('ending_bg/chiaki_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#death_bg{
+    background-image: url('ending_bg/death.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body.gameover_ending_bg{
+    background-image: url('ending_bg/game_over.jpg');
+    background-position-x: 50%;
+    background-position-y: 18%;
+    background-repeat: no-repeat;
+}
+
+body#huyuhiko_ending_bg{
+    background-image: url('ending_bg/huyuhiko_ending.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#ibuki_ending_bg{
+    background-image: url('ending_bg/ibuki_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#nekomaru_ending_bg{
+    background-image: url('ending_bg/nekomaru_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#sonia_ending_bg{
+    background-image: url('ending_bg/sonia_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#teruteru_ending_bg{
+    background-image: url('ending_bg/teruteru_ending.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body#ps_bg{
+    background-image: linear-gradient(to left, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%);
+    background-blend-mode: normal, lighten, soft-light;
+    text-align: center;
+}
+
+div.pink_bg{
+    background-image: url('backgrounds/fond_description.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.pink_bg_ending{
+    background-image: url('backgrounds/fond_description.png');
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    padding:10px 10px 10px 25px;
+    background-clip: padding-box;
+    position: absolute;
+    top:25px;
+    left:25px;
+    opacity: 0.9;
+}
+
+.choice{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 10px 100px 10px;
+    background-clip: padding-box;
+}
+
+#choice_akane{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:440px;
+    left:365px;
+    opacity: 0.9;
+}
+
+#choice_byakuya{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:450px;
+    left:754px;
+}
+
+#choice_chiaki{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:460px;
+    left:795px;
+}
+
+#choice_chiaki_swimsuit{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:460px;
+    left:450px;
+}
+
+#choice_huyuhiko{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:466px;
+    left:780px;
+    opacity: 0.9;
+}
+
+#choice_ibuki{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:450px;
+    left:519px;
+}
+
+#choice_nekomaru{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:440px;
+    left:780px;
+    opacity: 0.9;
+}
+
+#choice_sonia{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:450px;
+    left:1043px;
+}
+
+#choice_teruteru{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:450px;
+    left:215px;
+}
+
+#choice_teruteru_sad{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:510px;
+    left:490px;
+}
+
+#choice_teruteru_happy{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 5px 5px 5px;
+    background-clip: padding-box;
+    position: absolute;
+    top:510px;
+    left:838px;
+}
+
+#choice_class_icone{
+    background-image: url('backgrounds/fond_description.png');
+    background-position-x: 20%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    padding:5px 10px 200px 10px;
+    background-clip: padding-box;  
+}
+
+#study_icone{
+    position: absolute;
+    top:395px;
+    left:473px;
+}
+
+#city_icone{
+    position: absolute;
+    top:391px;
+    left:816px;
+}
+
+#school_icone{
+    position: absolute;
+    top:460px;
+    left:448px;
+}
+
+#sport_icone{
+    position: absolute;
+    top:455px;
+    left:823px;
+}
+
+#refectory_icone{
+    position: absolute;
+    top:531px;
+    left:448px;
+}
+
+#house_icone{
+    position: absolute;
+    top:531px;
+    left:822px;
+}
+
+#class_icone{
+    position: absolute;
+    top:501px;
+    left:467px;
+}
+
+#akane_chara{
+    position: absolute;
+    top:468px;
+    left:365px;
+}
+
+#byakuya_chara{
+    position: absolute;
+    top:493px;
+    left:700px;
+}
+
+#chiaki_chara{
+    position: absolute;
+    top:493px;
+    left:780px;
+}
+
+#chiaki_swimsuit_chara{
+    position: absolute;
+    top:493px;
+    left:430px;
+}
+
+#huyuhiko_chara{
+    position: absolute;
+    top:498px;
+    left:800px;
+}
+
+#ibuki_chara{
+    position: absolute;
+    top:493px;
+    left:415px;
+}
+
+#nekomaru_chara{
+    position: absolute;
+    top:468px;
+    left:720px;
+}
+
+#sonia_chara{
+    position: absolute;
+    top:493px;
+    left:1000px;
+}
+
+#teruteru_chara{
+    position: absolute;
+    top:493px;
+    left:150px;
+}
+
+#teruteru_chara_sad{
+    position: absolute;
+    top:543px;
+    left:430px;
+}
+
+#teruteru_chara_happy{
+    position: absolute;
+    top:543px;
+    left:780px;
+}
+
+.back_button{
+    position: absolute;
+    top: 740px;
+    left: 5px;
+}
+
+.start_over{
+    position: absolute;
+    top:60%;
+    left:37%;   
+}
+
+a:link { 
+    text-decoration:none; 
+} 
